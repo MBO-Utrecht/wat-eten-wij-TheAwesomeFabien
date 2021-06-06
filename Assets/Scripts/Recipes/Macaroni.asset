@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Macaroni
   kitchen: 0
-  ingredients: []
+  ingredients:
+  - Macaroni
+  - Gehakt
+  - Groenten
+  time: 20

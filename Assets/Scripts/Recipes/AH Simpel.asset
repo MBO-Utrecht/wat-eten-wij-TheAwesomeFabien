@@ -14,4 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: AH Simpel
   kitchen: 5
-  ingredients: []
+  ingredients:
+  - Kip
+  - Aardappelen
+  time: 10

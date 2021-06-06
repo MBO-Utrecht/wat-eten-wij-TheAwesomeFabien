@@ -14,4 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Pasta
   kitchen: 0
-  ingredients: []
+  ingredients:
+  - Pasta
+  - Rode gehakt saus
+  time: 10

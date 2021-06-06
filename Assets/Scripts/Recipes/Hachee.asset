@@ -14,4 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Hachee
   kitchen: 3
-  ingredients: []
+  ingredients:
+  - Vlees
+  - Groenten
+  time: 120

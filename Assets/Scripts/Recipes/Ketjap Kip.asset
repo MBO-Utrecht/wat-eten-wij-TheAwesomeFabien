@@ -14,4 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Ketjap Kip
   kitchen: 1
-  ingredients: []
+  ingredients:
+  - Ketjap
+  - Kip
+  time: 10

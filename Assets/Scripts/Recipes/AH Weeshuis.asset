@@ -14,4 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: AH Weeshuis
   kitchen: 5
-  ingredients: []
+  ingredients:
+  - Aardappels
+  - Vlees
+  time: 60

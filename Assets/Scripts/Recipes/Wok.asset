@@ -14,4 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Wok
   kitchen: 1
-  ingredients: []
+  ingredients:
+  - Rijst/Noodles
+  - Toppings
+  time: 10

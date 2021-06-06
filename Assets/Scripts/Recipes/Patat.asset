@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Patat
   kitchen: 6
-  ingredients: []
+  ingredients:
+  - Patat
+  time: 10

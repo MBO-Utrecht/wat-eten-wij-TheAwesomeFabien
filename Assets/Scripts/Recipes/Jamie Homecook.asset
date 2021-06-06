@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Jamie Homecook
   kitchen: 4
-  ingredients: []
+  ingredients:
+  - Biefstuk
+  - Sperziebonen
+  - Soja
+  time: 20

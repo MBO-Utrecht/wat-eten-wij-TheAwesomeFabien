@@ -14,4 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: AH Veel
   kitchen: 5
-  ingredients: []
+  ingredients:
+  - Rijst
+  - Aardapelen
+  time: 50

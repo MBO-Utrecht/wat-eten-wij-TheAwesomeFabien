@@ -14,4 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Nasi
   kitchen: 1
-  ingredients: []
+  ingredients:
+  - Rijst
+  - Groenten
+  time: 10

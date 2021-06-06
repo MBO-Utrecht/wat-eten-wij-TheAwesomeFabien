@@ -14,4 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Jamie Cheff
   kitchen: 4
-  ingredients: []
+  ingredients:
+  - Kipfilet
+  - Rijst
+  - Knoflook
+  - Bosui
+  time: 40

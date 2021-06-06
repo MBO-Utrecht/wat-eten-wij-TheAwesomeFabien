@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Pizza
   kitchen: 0
-  ingredients: []
+  ingredients:
+  - Deeg
+  - Pizza toppings
+  - Tomatensaus
+  time: 20

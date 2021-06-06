@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Taco's
   kitchen: 2
-  ingredients: []
+  ingredients:
+  - Taco Schelpen
+  - Gehakt
+  - Sla
+  time: 20

@@ -14,4 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Chinees
   kitchen: 6
-  ingredients: []
+  ingredients:
+  - Bami
+  - Vlees
+  time: 10

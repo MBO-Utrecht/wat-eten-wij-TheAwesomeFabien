@@ -14,4 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Burrito's
   kitchen: 2
-  ingredients: []
+  ingredients:
+  - Burrito
+  - Bonen
+  - Mais
+  - Gehakt
+  time: 10

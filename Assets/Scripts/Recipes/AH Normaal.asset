@@ -14,4 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: AH Normaal
   kitchen: 5
-  ingredients: []
+  ingredients:
+  - Tomaat
+  - Rijst
+  - Vlees
+  - Boontjes
+  time: 20

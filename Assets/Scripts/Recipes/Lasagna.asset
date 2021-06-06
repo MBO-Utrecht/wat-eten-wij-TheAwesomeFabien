@@ -14,4 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Lasagna
   kitchen: 0
-  ingredients: []
+  ingredients:
+  - Deeg bladeren
+  - Gehakt
+  - Tomatensaus
+  - Groenten
+  time: 30

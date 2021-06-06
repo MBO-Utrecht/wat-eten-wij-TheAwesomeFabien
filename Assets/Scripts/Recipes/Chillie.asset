@@ -14,4 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Chillie
   kitchen: 2
-  ingredients: []
+  ingredients:
+  - Gehakt
+  - Bonen
+  - Groenten
+  - Chilliepepers
+  time: 20

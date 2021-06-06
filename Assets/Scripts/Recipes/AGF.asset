@@ -15,4 +15,7 @@ MonoBehaviour:
   name: AGV
   kitchen: 3
   ingredients:
-  - 
+  - Aardappels
+  - Groenten
+  - Vlees
+  time: 40

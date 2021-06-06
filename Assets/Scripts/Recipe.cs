@@ -18,5 +18,6 @@ public class Recipe : ScriptableObject
 
     [SerializeField] private string name;
     [SerializeField] private Kitchen kitchen;
-    [SerializeField] private string[] ingredients;
+    [SerializeField] public string[] ingredients;
+    [SerializeField] public int time;
 }

@@ -14,4 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Jami Beginner
   kitchen: 4
-  ingredients: []
+  ingredients:
+  - Vlees
+  - Aardappels
+  time: 10

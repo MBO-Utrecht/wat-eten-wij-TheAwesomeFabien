@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Bonenschotel
   kitchen: 3
-  ingredients: []
+  ingredients:
+  - Bonen
+  time: 30

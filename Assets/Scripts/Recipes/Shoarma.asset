@@ -14,4 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Shoarma
   kitchen: 6
-  ingredients: []
+  ingredients:
+  - Shoarmavlees
+  - Shoarma broodje
+  time: 10
